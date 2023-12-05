@@ -1,1 +1,1 @@
-console.log("Simple v1.0 (Extensions test log)")
+console.log("Simple v1.1 (Extensions test log)")
